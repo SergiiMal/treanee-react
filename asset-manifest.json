@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/treanee-react/static/css/main.c3d5249d.css",
+    "main.js": "/treanee-react/static/js/main.56256e1e.js",
+    "index.html": "/treanee-react/index.html",
+    "main.c3d5249d.css.map": "/treanee-react/static/css/main.c3d5249d.css.map",
+    "main.56256e1e.js.map": "/treanee-react/static/js/main.56256e1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.56256e1e.js"
+  ]
+}
